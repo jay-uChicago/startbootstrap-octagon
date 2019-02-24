@@ -2,8 +2,7 @@
 
 ## Preview
 
-![alt text](https://raw.githubusercontent.com/jay-uChicago/startbootstrap-octagon/master/references/Methodology.png)
-startbootstrap-octagon/img/Octagon Screenshot.png
+![alt text](https://raw.githubusercontent.com/jay-uChicago/startbootstrap-octagon/img/Octagon Screenshot.png)
 
 **[Launch Live Preview](https://jay-uchicago.github.io/startbootstrap-octagon/)**
 
