@@ -2,7 +2,7 @@
 
 ## Preview
 
-[![SB Octagon Preview]](https://jay-uchicago.github.io/startbootstrap-octagon/)
+startbootstrap-octagon/img/Octagon Screenshot.png
 
 **[Launch Live Preview](https://jay-uchicago.github.io/startbootstrap-octagon/)**
 
