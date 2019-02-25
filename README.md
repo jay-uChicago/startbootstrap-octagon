@@ -1,4 +1,4 @@
-# [Start Bootstrap - Octagon]
+# [Octagon Bootstrap.JS]
 
 ## Preview
 
